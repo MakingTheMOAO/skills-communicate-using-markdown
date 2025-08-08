@@ -12,3 +12,9 @@ hello = "Hello"
 world = "World"
 print(hello + world)
 ```
+
+Who stole the duck from the bakery?
+- [ ] Robin
+- [X] Batman
+
+      
